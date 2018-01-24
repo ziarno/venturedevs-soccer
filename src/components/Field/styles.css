@@ -1,0 +1,8 @@
+.Field {
+  position: relative;
+  background: url('assets/soccer-field.jpg') no-repeat;
+  background-size: cover;
+  width: 50rem;
+  height: 33.54rem;
+  text-align: center;
+}
